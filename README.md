@@ -18,11 +18,14 @@ This project provides a simple webpage that fetches data from an Excel (XLSX) fi
 2. Replace 'Dummy.xlsx' in the code with the actual URL or path to your Excel file.
 3. Open the index.html file in a browser to view the chart.
 
-# Screencast
-https://github.com/user-attachments/assets/733d177b-814a-4dd7-91e1-71bf27c618a0
 
 # Screenshot
-![pic](https://github.com/user-attachments/assets/85eb0b10-eb4f-4f1d-b1ef-65fbb2a93482)
+![ExcelData-With-ChartJS](https://github.com/user-attachments/assets/da0d49b0-59a0-4d25-8f65-60c300a6eec8)
+
+# Screencast
+https://github.com/user-attachments/assets/e6e6fe7f-f3d9-4079-8257-93fa71075a83
+
+
 
 
 
