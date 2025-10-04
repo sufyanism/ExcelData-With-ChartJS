@@ -1,4 +1,4 @@
-# Excel Data Visualization with Chart.js
+# Get Excel Data Visualization with Chart.js
 This project provides a simple webpage that fetches data from an Excel (XLSX) file and visualizes it as a bar chart using Chart.js. The chart displays two datasets for easy comparison, based on data stored in the Excel file. Simply replace 'Dummy.xlsx' with the URL of Excel data file.
 
 </br>
